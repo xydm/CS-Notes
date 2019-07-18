@@ -2,19 +2,19 @@
 
 ## ✏️ 算法
 
-- [剑指 Offer 题解](notes/剑指%20offer%20题解.md) </br>
-- [Leetcode 题解](notes/Leetcode%20题解) </br>
-- [算法](notes/算法.md) </br>
-- [点击订阅面试进阶指南](https://xiaozhuanlan.com/CyC2018)
+- [剑指 Offer 题解](notes/剑指%20Offer%20题解%20-%20目录1.md) </br>
+- [Leetcode 题解](notes/Leetcode%20题解%20-%20目录1.md) </br>
+- [算法](notes/算法%20-%20目录1.md) </br>
+- [后端面试进阶指南](https://xiaozhuanlan.com/CyC2018)
 
 ## 💻 操作系统
 
-- [计算机操作系统](notes/计算机操作系统.md) </br>
+- [计算机操作系统](notes/计算机操作系统%20-%20目录1.md) </br>
 - [Linux](notes/Linux.md)
 
 ## ☁️ 网络
 
-- [计算机网络](notes/计算机网络.md) </br>
+- [计算机网络](notes/计算机网络%20-%20目录1.md) </br>
 - [HTTP](notes/HTTP.md) </br>
 - [Socket](notes/Socket.md)
 
@@ -55,6 +55,10 @@
 - [正则表达式](notes/正则表达式.md) </br>
 - [构建工具](notes/构建工具.md)
 
-欢迎关注 公众号 “CyC2018” ，每天发布一道高频基础知识面试题，让你在闲暇时间也能学习进步！公众号也提供了一个学习打卡圈子，记录你每天的学习收获，见证你的成长！
+<!--⭐️欢迎关注我的公众号 CyC2018，在公众号后台回复关键字 📚 **资料** 可领取复习大纲，这份大纲是我花了一整年时间整理的面试知识点列表，不仅系统整理了面试知识点，而且标注了各个知识点的重要程度，从而帮你理清多而杂的面试知识点。可以说我基本是按照这份大纲来进行复习的，这份大纲对我拿到了 BAT 头条等 Offer 起到很大的帮助。你们完全可以和我一样根据大纲上列的知识点来进行复习，就不用看很多不重要的内容，也可以知道哪些内容很重要从而多安排一些复习时间。
+<br/><br/>
+<div align="center">
+  <img src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="200px">
+</div> -->
 
-![](https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+
